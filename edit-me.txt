@@ -1,0 +1,3 @@
+/* First IDE Lab */
+
+var Maggie = "Student at Flatiron School";
